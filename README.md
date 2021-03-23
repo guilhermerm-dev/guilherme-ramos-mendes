@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [CI&T](https://desenvolvedor.io/) as Software Enginner
+- 🔭  I’m currently working at [CI&T](https://desenvolvedor.io/) as Software Enginner
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermerm-dev)](https://github.com/guilhermerm-dev)
