@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭  I’m currently working at [CI&T](https://ciandt.com/us/en-us) as Software Engineer
+- 🔭  I’m currently working at [BTG Pactual](https://www.btgpactualdigital.com/) as Software Engineer
 - 👶  I'm Joaquim's father
 - 🇧🇷  I live in Brazil
 - 💻  I'm passionate about technology
